@@ -7,4 +7,6 @@ public class Locations {
 
     public static final String SEAM_SPRING_CONTEXTS_LOCATION = "/META-INF/org.jboss.seam.spring.contexts";
 
+    public static final String SEAM_SPRING_CONFIG = "/META-INF/org.jboss.seam.spring.config.properties";
+
 }
